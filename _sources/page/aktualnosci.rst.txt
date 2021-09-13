@@ -1,0 +1,99 @@
+###########
+AKTUALNOŚCI
+###########
+
+.. warning:: **SZANOWNI PAŃSTWO**
+
+   Informujemy, że pod koniec grudnia bierzącego roku planowana jest przerwa techniczna i
+   niniejsza strona może być czasowo niedostępna.
+
+najbliższe zawody
+=================
+
+ogólne
+------
+
+* miejscowość: ??
+* data zawodów: ??-??.??.????
+* godzina i miejsce zbiórki: ?? - ??.??.???? ??:??:??
+
+
+* basen:
+
+.. .. image:: images/basen_newsy.jpg
+   :height: 400px
+   :width: 1000 px
+   :scale: 50 %
+   :alt: DXC Technology
+   :align: center
+
+
+
+
+* Listy startowe
+* Wyniki live 
+
+.. .. warning::
+..        * relacja na żywo:
+
+.. .. raw:: html
+    
+    <!-- <iframe width='320' height='160' src='' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe> -->
+
+.. odnośniki na megatiming
+.. admonition:: Więcej informacji na stronach:
+
+   - najbliższe zawody na MEGATIMING 
+   - `MEGATIMING <http://www.megatiming.pl>`_
+
+
+kto co płynie?
+--------------
+.. tip:: [link]
+
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+        | imię         | 50D  | 100D | 200D | 400D | 50G  | 100G | 50K  | 100K | 50M  | 100M | 100Z | 200Z | SUMA |
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+        | Weronika     | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    |
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+        | Marta        | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    |
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+        | Maciej       | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    |
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+        | Kamil        | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    |
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+        | Andrzej      | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    |
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+        | Michał       | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    |
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+        | Dawid        | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    |
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+        | Krystian     | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    | ?    |
+        +--------------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+
+        * D - dowolny
+        * G - grzbietowy
+        * K - klasyczy
+        * M - motylkowy
+        * Z - zmienny
+
+        * V - uczestniczy
+        * X - nie uczestniczy
+
+
+newsy
+=====
+**UWAGA:**
+
+Już teraz!
+
+w każy poniedziałęk i piątek
+
+o w godzinach 15:30 - 17:00
+
+treningi na salce, która znajduje się
+
+na stadionie w tychach - Edukacji 7
+
+SERDECZNIE ZAPRASZAMY
+

@@ -1,0 +1,42 @@
+.. image:: page/images/basen_title.jpg
+   :height: 400px
+   :width: 600 px
+   :scale: 50 %
+   :alt: DXC Technology
+   :align: right
+
+Start Tychy
+===========
+Z a w a r t o ś ć
+-----------------
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Menu Głóœne
+
+   page/aktualnosci
+
+.. toctree::
+   :maxdepth: 4
+
+   page/zawody
+
+.. toctree::
+   :maxdepth: 4
+
+   page/rekordy
+
+.. toctree::
+   :maxdepth: 4
+
+   page/harmonogram
+
+.. toctree::
+   :maxdepth: 4
+
+   page/archiwum
+
+.. toctree::
+   :maxdepth: 4
+
+   page/linki

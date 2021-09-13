@@ -1,0 +1,92 @@
+*********
+Przykłady
+*********
+
+
+* https://raw.githubusercontent.com/AstroMatt/book-python/master/machine-learning/wprowadzenie-do-statystyki.rst
+* http://python.astrotech.io/machine-learning/wprowadzenie-do-statystyki.html
+
+
+
+.. figure:: images/logoszkoly.png
+    :scale: 50%
+    :align: center
+
+    Logo Szkoły
+
+
+
+Rozkłady
+========
+* kształty przebiegów
+* nazwy
+* zakresy
+* nadzieje
+* siły
+
+
+Podstawowe pojęcia
+==================
+.. glossary::
+
+    Funkcja
+        .. figure:: images/funkcja.png
+            :scale: 100%
+            :align: center
+
+            Funkcja opisana równaniem prostej :math:`f(x) = mx + b`
+
+    Równanie prostej
+        :math:`f(x) = ax + b` lub :math:`f(x) = mx + b`
+
+Tabela
+======
+
+* http://docutils.sourceforge.net/docs/user/rst/quickref.html
+
+Grid table:
+
++------------+------------+-----------+
+| Header 1   | Header 2   | Header 3  |
++============+============+===========+
+| body row 1 | column 2   | column 3  |
++------------+------------+-----------+
+| body row 2 | Cells may span columns.|
++------------+------------+-----------+
+| body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+| body row 4 |            | - blocks. |
++------------+------------+-----------+
+
+
+
+.. note:: Source: https://www.stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm
+
+
+.. code-block:: python
+
+    a, b, c = (1, 2, 3)
+    a, b, c = [1, 2, 3]
+    a, b, c = {1, 2, 3}
+
+
+* Do pobrania: :download:`images/logoszkoly.png`
+
+
+
+
+GET vs POST
+-----------
+- przekazywanie parametrów
+- ``?zmienna1=wartosc&zmienna2=wartosc``
+
+.. math::
+
+   \frac{ \sum_{t=0}^{N}f(t,k) }{N}
+
+*emphasis*
+**strong emphasis**
+`interpreted text`
+``inline literal``
+
+http://docutils.sourceforge.net/docs/user/rst/quickref.html
