@@ -19,11 +19,6 @@ Z a w a r t o ś ć
 .. toctree::
    :maxdepth: 4
 
-   page/zawody
-
-.. toctree::
-   :maxdepth: 4
-
    page/rekordy
 
 .. toctree::

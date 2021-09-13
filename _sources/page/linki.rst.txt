@@ -2,10 +2,10 @@
 LINKI
 #####
 
-- `Star Shooter <./share/star_shooter.html>`_
 - Aby uzyskać więcej informacji zobacz także: 
 .. raw:: html
 
         <iframe src="https://scratch.mit.edu/projects/395701220/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 * `WSSiRN START Katowice -- Facebook <https://www.facebook.com/WSSiRN-START-Katowice-1945268529033380/?ref=br_rs>`_
+* `Repozytorium GitHub strony <https://github.com/gucio321/gucio321.github.io>`
