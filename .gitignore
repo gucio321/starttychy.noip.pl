@@ -1,2 +1,5 @@
 # sphinx cache
 _source
+
+# README - ignore edits to readme
+README.md
